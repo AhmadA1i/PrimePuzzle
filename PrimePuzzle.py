@@ -1,30 +1,6 @@
 import streamlit as st
 import math
 
-/* style.css */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #b05757;
-}
-
-h1, h2, h3 {
-    color: #e51616;
-    text-align: center;
-}
-
-button {
-    background-color: #664caf;
-    color: white;
-    padding: 15px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #575757;
-}
-
 def is_prime(num):
     """Checks if a number is prime."""
     if num <= 1:
