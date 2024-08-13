@@ -15,7 +15,7 @@ h1, h2, h3 {
 button {
     background-color: #664caf;
     color: white;
-    padding: 15px, 20px;
+    padding: 15px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
